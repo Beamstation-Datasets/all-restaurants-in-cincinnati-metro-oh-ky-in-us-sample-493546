@@ -1,6 +1,6 @@
 # All Restaurants in Cincinnati (Metro), OH-KY-IN, US
 
-> Free BeamStation sample export with 373 rows and masked direct-contact fields.
+> Free BeamStation sample export with 369 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `493546` |
 | Location | Cincinnati, OH-KY-IN |
 | Category | Restaurants |
-| Full dataset size | 3,739 records |
-| Free sample size | 373 records (9.98%) |
-| Last export | 2026-04-09T14:04:37.815117+00:00 |
+| Full dataset size | 3,697 records |
+| Free sample size | 369 records (9.98%) |
+| Last export | 2026-04-16T15:01:25.337552+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cincinnati-metro-oh-ky-in-us-sample-493546/releases/download/sample-latest/beamstation_493546_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
