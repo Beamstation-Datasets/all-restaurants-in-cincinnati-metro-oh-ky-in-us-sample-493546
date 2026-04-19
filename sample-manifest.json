@@ -1,12 +1,12 @@
 {
-  "export_job_id": "58958492-368c-4cf8-beef-b9d39d3ce56a",
+  "export_job_id": "46d35be9-be2d-494e-b2eb-824fba6c6926",
   "id_short": 493546,
-  "published_at": "2026-04-13T19:05:00Z",
+  "published_at": "2026-04-19T19:14:26Z",
   "repo_name": "all-restaurants-in-cincinnati-metro-oh-ky-in-us-sample-493546",
   "sample_asset_name": "beamstation_493546_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/493546/beamstation_493546_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
-  "sample_records": 373,
-  "sample_sha256": "f86b6b2ca9e3789cfd2729e56904ca1c4f28e8ac80b0cccf319da6ed09b63636",
-  "sample_size_bytes": 1391842,
-  "total_records": 3739
+  "sample_records": 369,
+  "sample_sha256": "be267141541b91658f5cbcfc8569f1443e8c755125179b70db16288e778a9618",
+  "sample_size_bytes": 1385792,
+  "total_records": 3697
 }
