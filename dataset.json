@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Metro-wide restaurant dataset for the Cincinnati area spanning Ohio, Kentucky, and Indiana. Filtered by the Restaurants category group, this export covers the tri-state region's dining market with verified business profiles, ratings, review sentiment, and competitive rankings. Refreshed weekly.",
   "config_name": "All Restaurants in Cincinnati (Metro), OH-KY-IN, US",
-  "export_job_id": "58958492-368c-4cf8-beef-b9d39d3ce56a",
+  "export_job_id": "46d35be9-be2d-494e-b2eb-824fba6c6926",
   "github_org": "Beamstation-Datasets",
   "id_short": 493546,
   "location_name": "Cincinnati, OH-KY-IN",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-cincinnati-metro-oh-ky-in-us-sample-493546",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/493546/beamstation_493546_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
   "sample_pct": 9.98,
-  "sample_records": 373,
-  "sample_sha256": "f86b6b2ca9e3789cfd2729e56904ca1c4f28e8ac80b0cccf319da6ed09b63636",
-  "sample_size_bytes": 1391842,
-  "total_records": 3739,
-  "updated_at": "2026-04-09T14:04:37.815117+00:00"
+  "sample_records": 369,
+  "sample_sha256": "be267141541b91658f5cbcfc8569f1443e8c755125179b70db16288e778a9618",
+  "sample_size_bytes": 1385792,
+  "total_records": 3697,
+  "updated_at": "2026-04-16T15:01:25.337552+00:00"
 }
